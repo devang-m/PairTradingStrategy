@@ -1,5 +1,5 @@
 # PairTradingStrategy
-This repository contains a Pair Trading strategy model which is a Market Neutral Statistical Arbritrage Stategy for 2 stocks .
+This repository contains a Pair Trading strategy model which is a Market Neutral Statistical Arbritrage Stategy for 2 stocks.
 
 The code is in 'model.py'.
 
